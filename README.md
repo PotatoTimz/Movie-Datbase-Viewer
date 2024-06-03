@@ -1,5 +1,8 @@
 # MovieRec.com
 
+## Home Page
+![Imgur]([https://i.imgur.com/BNOCwKo.png](https://imgur.com/DefFZk7))
+
 ## Intall Instructions
 
 #### 1. Place files into desired directory
